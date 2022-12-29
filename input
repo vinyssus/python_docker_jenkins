@@ -1,4 +1,0 @@
-#!/bin/bash
-echo -n "entrer votre prenom: "
-read prenom
-echo "your name is $prenom."
